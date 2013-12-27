@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="menu_background">#12A5F4</color>
+    <color name="menu_button_background">#77000000</color>
+    <color name="smoke_gray">#F5F5F5</color>
+    <color name="darkblue_square">#074262</color>
+    <color name="dark_square">#664428</color>
+    <color name="white_square">#FFffffff</color>
+    <color name="transparent_white">#99ffffff</color>
+    <color name="transparent_blue">#99236B8E</color>
+    <color name="transparent_red">#99D41A1F</color>
+    <color name="selected_tile">#b2ffb2</color>
+</resources>
